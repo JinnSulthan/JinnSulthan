@@ -16,7 +16,7 @@
 
 ### Social Media Accounts
 
-[![Twitter](https://img.shields.io/twitter/follow/MR_JINN_OF_TG?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/MR_JINN_OF_TG)
+[![Twitter](https://img.shields.io/twitter/follow/JinnSulthan?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/JinnSulthan)
 [![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram)](https://instagram.com/MR_JINN_OF_TG)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/JINN_SULTHAN)
 [![Gmail](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail)](MR-JINN-OF-TG:MRJINNOFTG@gmail.com)
