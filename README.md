@@ -2,8 +2,14 @@
 
 ### LET ME INTRODUCE SOME OF MY FEW INFORMATIONS
 
-
-
+🕊️Name :- Ashik Muhammed 
+🕊️From :- India, Kerala, Kottayam, Thalayolaparambu.
+🕊️Hobbies :- Watching Movies, Listening Music, ReadingBooks.(🕊️) 
+🕊️More Details Soon
+🕊️
+🕊️
+🕊️
+🕊️
 
 
 
