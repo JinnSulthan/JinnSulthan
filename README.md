@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-jinn-of-tg&label=Profile%20views&color=0e75b6&style=flat" alt="mr-jinn-of-tg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-jinn-of-tg" alt="mr-jinn-of-tg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JinnSulthan" alt="JinnSulthan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jinnsulthan" target="blank"><img src="https://img.shields.io/twitter/follow/jinnsulthan?logo=twitter&style=for-the-badge" alt="jinnsulthan" /></a> </p>
 
 - 🌱 I’m currently learning **Python.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MR-JINN-OF-TG](https://github.com/MR-JINN-OF-TG)
+- 👨‍💻 All of my projects are available at [https://github.com/JinnSulthan](https://github.com/JinnSulthan)
 
 - 💬 Ask me about **Technology (Not at all Fully.),Hacking, cybersecurity, It softwares and Hardwares,etc....**
 
