@@ -17,6 +17,8 @@
 
 - Fun Facts about me is **I don't believe anyone Quickly, A silent Attcker, Angry Bird (Can't Control my Anger).**
 
+- Whatever I know is **Hardware Assembling & Disassembling, Allocating HardDisk, OS installations, MS Office... etc..**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jinnsulthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jinnsulthan" height="30" width="40" /></a>
