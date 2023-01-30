@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Technology (Not at all Fully.),Hacking, cybersecurity, It softwares and Hardwares,etc....**
 
-- 📫 How to reach me **MRJINNOFTG@GMAIL.COM**
+- 📫 How to reach me **JinnSulthan.me@gmail.com**
 
 - Fun Facts about me is **I don't believe anyone Quickly, A silent Attcker, Angry Bird (Can't Control my Anger).**
 
